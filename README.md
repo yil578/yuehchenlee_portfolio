@@ -1,2 +1,1 @@
-Proudly built a portfolio/personal site for my amazing architecture sister,
-Yueh-Chen Sabina, with ❤️
+Proudly built a portfolio/personal site for my amazing architecture sister, Yueh-Chen Sabina, with ❤️. Go to https://yil578.github.io/yuehchenlee_portfolio/ to view her beautiful architecture projects!
