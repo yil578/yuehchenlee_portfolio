@@ -58,9 +58,6 @@ ul {
 #guestHouse {
     font-size: 30px;
 }
-#explain {
-    font-size: 14px;
-}
 
 /*-- header --*/
 /*-- nav --*/
@@ -77,18 +74,6 @@ h1 a.navbar-brand {
     margin-left: 5px;
     margin-right: 0px;
 }
-/*
-#struct_nav {
-    padding-top: 10px;
-    font-size: 37px;
-    color: #fff !important;
-    text-transform: uppercase;
-    font-weight: 400;
-    letter-spacing: 2px;
-    margin-left: 5px;
-    margin-right: 0px;
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-} */
 nav.navbar.navbar-expand-lg.navbar-light {
     /* padding: 1em 21em; */
     background:rgba(78, 42, 132, 0);
@@ -132,12 +117,16 @@ nav.navbar.navbar-expand-lg.navbar-light {
 .three-img{ background: url(../images/b3.jpg) no-repeat 0px 0px;}
 .four-img{ background: url(../images/b4.jpg) no-repeat 0px 0px;}
 .structure-img{ background: url(../images/structure.jpg) no-repeat 0px 0px;}
+.transform-img{ background: url(../images/transform.jpg) no-repeat 0px 0px;}
+.apartment-img{ background: url(../images/apartment.jpg) no-repeat 0px 0px;}
+
 .slider-img {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
-    min-height: 800px;}
+    min-height: 800px;
+}
 .slider{
 	position:relative;
 }
@@ -372,7 +361,7 @@ li.active a {
 
 .portfolio-item2 figcaption h3 {
 	font-weight: 700;
-	font-size: 30px;
+	font-size: 20px;
 	color: #FFF;
 	text-align:center;
 	margin-bottom: 0;
@@ -564,7 +553,7 @@ h1 a.navbar-brand {
 }
 .portfolio-item2 figcaption h3 {
     margin-top: 68px;
-	font-size:25px;
+	font-size:19px;
 } 
 }
 @media(max-width:1050px){
@@ -679,7 +668,7 @@ h1 a.navbar-brand {
 }
 .portfolio-item2 figcaption h3 {
     margin-top: 56px;
-    font-size: 21px;
+    font-size: 17px;
 }
 .portfolio-categ li {
     padding: 8px 14px;
@@ -708,7 +697,6 @@ h1 a.navbar-brand {
 }
 .portfolio-item2 figcaption h3 {
     margin-top: 108px;
-    font-size: 21px;
 } 
 .about-agile-text h4 {
     line-height: 31px;
