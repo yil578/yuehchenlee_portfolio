@@ -119,6 +119,7 @@ nav.navbar.navbar-expand-lg.navbar-light {
 .structure-img{ background: url(../images/structure.jpg) no-repeat 0px 0px;}
 .transform-img{ background: url(../images/transform.jpg) no-repeat 0px 0px;}
 .apartment-img{ background: url(../images/apartment.jpg) no-repeat 0px 0px;}
+.flip-img{ background: url(../images/flip.jpg) no-repeat 0px 0px;}
 
 .slider-img {
     -webkit-background-size: cover;
