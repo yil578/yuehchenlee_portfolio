@@ -120,6 +120,8 @@ nav.navbar.navbar-expand-lg.navbar-light {
 .transform-img{ background: url(../images/transform.jpg) no-repeat 0px 0px;}
 .apartment-img{ background: url(../images/apartment.jpg) no-repeat 0px 0px;}
 .flip-img{ background: url(../images/flip.jpg) no-repeat 0px 0px;}
+.sketch-img{ background: url(../images/sketch.jpg) no-repeat 0px 0px;}
+.futureCity-img{ background: url(../images/futureCity.jpg) no-repeat 0px 0px;}
 
 .slider-img {
     -webkit-background-size: cover;
