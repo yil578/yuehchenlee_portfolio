@@ -477,7 +477,7 @@ h1 a.navbar-brand {
     margin-left: 6%;
 }
 #Home, #About, #Projects, #Contact {
-    font-size: 37px;
+    font-size: 34px;
 }
 .about-agile-text h4 {
     font-size: 38px;
@@ -501,10 +501,10 @@ h1 a.navbar-brand {
 }
 @media(max-width:2000px){
 .slider-info h4 {
-    font-size: 7em;
+    font-size: 6.5em;
 }
 .slider-info p {
-    font-size: 35px;
+    font-size: 30px;
 }
 .slider-info {
     padding: 20em 0 0;
@@ -513,18 +513,34 @@ h1 a.navbar-brand {
     min-height: 900px;
 }
 h1 a.navbar-brand {
-    font-size: 55px;
-    margin-top: 6%;
-    margin-left: 6%;
+    font-size: 53px;
+    margin-top: 5%;
+    margin-left: 5%;
 }
 #Home, #About, #Projects, #Contact {
-    font-size: 32px;
+    font-size: 25px;
 }
+.about-agile-text h4 {
+    font-size: 29px;
+    line-height: 58px;
+}
+.video-left iframe {
+    width: 1000px;
+    height: 500px;
+} 
+.dance-agile-info h4 {
+    font-size: 35px;
+}
+.bottom-para p {
+	font-size: 25px;
+    line-height: 50px;
+}
+.copy-agile-right p {
+    letter-spacing: 1px;
+    font-size: 25px;
+}	
 }
 @media(max-width:1680px){
-.slider-info p {
-    font-size: 20px;
-}
 }
 @media(max-width:1440px){
 .slider-info p {
