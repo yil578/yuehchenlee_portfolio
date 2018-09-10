@@ -96,7 +96,7 @@ figure.effect-chico:hover img {
 }
 
 figure.effect-chico figcaption {
-	padding: 2em;
+	padding: 1em;
 }
 
 figure.effect-chico figcaption::before {
@@ -166,7 +166,7 @@ figure.effect-chico:hover p {
 }
 @media(max-width:1366px){
 	figure.effect-chico h2 {
-    font-size: 17px;
+    font-size: 20px;
 }
 }
 @media(max-width:1280px){
@@ -178,6 +178,7 @@ figure.effect-chico:hover p {
 }
 figure.effect-chico h2 {
     padding: 10% 0 20px 0;
+    font-size: 19px;
 }
 }
 @media(max-width:1050px){
@@ -195,7 +196,7 @@ figure.effect-chico h2 {
 }
 @media(max-width:900px){
 	figure.effect-chico h2 {
-    font-size: 15px;
+    font-size: 17px;
 }
 }
 @media(max-width:800px){
@@ -215,8 +216,10 @@ figure.effect-chico figcaption::before {
 }
 @media(max-width:767px){
 	figure.effect-chico h2 {
-    padding: 26% 0 19px 0;
+	padding: 26% 0 19px 0;
+	font-size: 19px;
 }
+	
 }
 @media(max-width:736px){
 	
