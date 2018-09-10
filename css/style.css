@@ -458,6 +458,47 @@ li.active a {
 }
 /*-- //bottom-to-top --*/
 /*--responsive--*/
+@media(max-width: 4000px){
+.slider-info h4 {
+    font-size: 10em;
+}
+.slider-info p {
+    font-size: 50px;
+}
+.slider-info {
+    padding: 33em 0 0;
+}
+.slider-img {
+    min-height: 1700px;
+}
+h1 a.navbar-brand {
+    font-size: 80px;
+    margin-top: 8%;
+    margin-left: 8%;
+}
+#Home, #About, #Projects, #Contact {
+    font-size: 45px;
+}
+.about-agile-text h4 {
+    font-size: 51px;
+    line-height: 93px;
+}
+.video-left iframe {
+    width: 1100px;
+    height: 600px;
+} 
+.dance-agile-info h4 {
+    font-size: 53px;
+}
+.bottom-para p {
+	font-size: 40px;
+    line-height: 80px;
+}
+.copy-agile-right p {
+    letter-spacing: 1.3px;
+    font-size: 40px;
+}	
+}
 @media(max-width: 3000px){
 .slider-info h4 {
     font-size: 7.5em;
@@ -542,7 +583,7 @@ h1 a.navbar-brand {
 }
 @media(max-width:1680px){
 .slider-info h4 {
-    font-size: 5em;
+    font-size: 4.5em;
 }
 .slider-info p {
     font-size: 21px;
